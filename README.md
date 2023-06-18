@@ -1,2 +1,2 @@
 # Lhama_Library
-brabo dms
+Integrantes da equipe: Adriell Almeida, Alice Santos, Bruno Mota, Gabriel Oliveira, Pedro Santos
